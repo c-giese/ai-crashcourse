@@ -12,10 +12,10 @@ This repository contains general documentation, code examples and project ideas 
 - Build your first terminal based chat app
 - Extend the functionality
 - Utilize Langfuse for prompt management (Optional)
-- Incorporate OpenWebUI for a more sophisticated look
 
 ### Day two
 
+- Incorporate OpenWebUI for a more sophisticated look
 - Open Coding Lab: Implement your own idea!
 - Feedback round
 
