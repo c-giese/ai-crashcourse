@@ -1,22 +1,27 @@
-# Network Requests TODO by Fred
+# Network Requests
 
-Erklären, wie requests ablaufen, am besten an der Tafel mit ollama als Beispiel
+Try the following requests with python to get familiar with GET and POST:
 
-Dann auf das Requests Modul von python eingehen und das untenstehende simple beispiel in einer einfach python datei ausführen
+## Basic Examples
 
-https://www.w3schools.com/python/module_requests.asp
-
-## Basic Example
+GET:
 
 ```
 import requests
 
-url = 'https://www.w3schools.com/python/demopage.php'
-myobj = {'somekey': 'somevalue'}
-
-x = requests.post(url, json = myobj)
-
-#print the response text (the content of the requested file):
+x = requests.get('https://w3schools.com/python/demopage.htm')
 
 print(x.text)
+```
+
+POST:
+
+```
+import requests
+
+url = "https://jsonplaceholder.typicode.com/posts"
+payload = {"userId": 1, "title": "Hallo", "body": "Test"}
+
+response = requests.post(url, json=payload)
+print(response.json())
 ```
