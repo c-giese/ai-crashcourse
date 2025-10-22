@@ -12,7 +12,7 @@ Activate the environment `.\.venv\Scripts\activate`
 
 ## Useful command
 
-`pip list` hhows all installed dependencies
+`pip list` shows all installed dependencies
 
 `pip install` <PACKAGE_NAME> Installs the package
 
