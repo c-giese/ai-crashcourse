@@ -34,10 +34,18 @@ First, we want to get to know ollama, how to use and chat with models and how to
 
 ### Python Backend
 
-_02_venv.md_ + _03_requests.md_
+_02_venv.md_ + _03_requests.md_ + _04_chatbot.md_
 
 In this step, we want to create a virtual environment and build a terminal based Chat-App
 
 1. Create a virtual environment (venv)
 2. Build a rudimentary backend that sends a message to the ollama server
 3. Extend the functionality to have a more seamless experience
+
+### Open WebUI
+
+_05_webui.md_
+
+In this step we want to incorporate a prebuilt webui, to make the experience more seamless
+
+1. TODO

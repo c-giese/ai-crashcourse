@@ -16,7 +16,7 @@ In essence, Ollama acts like a server or runtime specifically for running LLMs l
 
 1. Install ollama from https://ollama.com/
 2. Download an run an local model in the terminal with `ollama run <MODEL_NAME>`, e.g. Gemma3:1B. You can chat with the model in the Terminal.
-3. Download an run another model, e.g. Phi3:latest
+3. Download an run another model, e.g. Gemma3:4B
 4. Use `ollama list` to see the installed LLMs. You will see, that the sizes differ, does this have any impact on performance or speed?
 5. Create your own model! Follow these steps:
    1. Create a file called Modelfile (no filetype!)

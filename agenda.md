@@ -1,6 +1,6 @@
 - Get to know each other
 - Presentation of assono and LLMs in general (both)
-- install and use Ollama
+- install and use Ollama (Chrisso)
 - Networking (Fred)
 - Venv (Fred)
-- Implement basic Chatbot
+- Implement basic Chatbot (Chrisso)
