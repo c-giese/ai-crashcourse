@@ -25,27 +25,32 @@ This repository contains general documentation, code examples and project ideas 
 
 _01_ollama.md_
 
-First, we want to get to know ollama, how to use and chat with models and how to modify them. The details can be found in _01_ollama.md_
+In this block we will
 
-1. Download and install the ollama server
-2. Run your first model
-3. Run a second model
-4. Create your own Model
+- get to know ollama
+- download and run our first model
+- compare it to another one
+- create our own model with unique persona
+
+### Requests and Venv
+
+_02_requests.md_ + _03_venv.md_
+
+In this block we will
+
+- Learn how network requests work in general
+- Learn what a venv is and how to set one up
+- See how to send requests in python
 
 ### Python Backend
 
-_02_venv.md_ + _03_requests.md_ + _04_chatbot.md_
+_04_chatbot.md_
 
-In this step, we want to create a virtual environment and build a terminal based Chat-App
+In this step, we will use the gained knowledge to
 
-1. Create a virtual environment (venv)
-2. Build a rudimentary backend that sends a message to the ollama server
-3. Extend the functionality to have a more seamless experience
+- Implement our first requests to the ollama server
+- Incrementally build a terminal-based chatbot
 
-### Open WebUI
+### Open Coding Lab
 
-_05_webui.md_
-
-In this step we want to incorporate a prebuilt webui, to make the experience more seamless
-
-1. TODO
+Now it is time for your ideas! We will provide a few possible projects, but feel free to get creative.
