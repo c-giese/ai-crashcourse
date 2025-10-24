@@ -15,7 +15,6 @@ This repository contains general documentation, code examples and project ideas 
 
 ### Day two
 
-- Incorporate OpenWebUI for a more sophisticated look
 - Open Coding Lab: Implement your own idea!
 - Feedback round
 
